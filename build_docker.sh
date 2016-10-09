@@ -1,2 +1,2 @@
-docker build -t kenoantigen/ka-api-docs-hugo .
+docker build -t kenoantigen/ka-web-site .
 
